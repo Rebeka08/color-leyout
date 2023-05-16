@@ -1,0 +1,112 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 14px;
+	line-height: 24px;
+	font-family: sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+	text-decoration: none;
+}
+a, a:hover{
+
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+
+.col-lg-4{
+	width: 33.33%;
+	float: left;
+	}
+
+.col-lg-12{
+    width: 100%;
+    float: left;
+
+}
+.header{
+	width: 100%;
+	float: left;
+}
+
+.hd{
+	height: 100px;
+	background: #08c;
+
+}
+.slider{
+	width: 100%;
+	float: left;
+}
+
+.sl{
+	height: 400px;
+	background: blue;
+}
+
+.bannar{
+	width: 100%;
+	float: left;
+}
+.footer{
+	width: 100%;
+	float: left;
+}
+
+.ft{
+	height: 80px;
+	background: #08c;
+
+}
+
+.cl1{
+	height: 300px;
+	background: green;
+	
+}
+
+.cl2{
+	height: 300px;
+	background:yellow;
+
+}
+.cl3{
+	height: 300px;
+	background: red;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
